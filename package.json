@@ -1,0 +1,9 @@
+{
+  "name": "checkout-service",
+  "private": true,
+  "dependencies": {
+    "openai": "^3.3.0",
+    "stripe": "^14.21.0",
+    "twilio": "^4.23.0"
+  }
+}
